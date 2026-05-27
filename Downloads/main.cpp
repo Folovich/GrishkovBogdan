@@ -6,5 +6,6 @@ int main() {
     std::cin >> a;
     std::cout << "Введите второе целое число: ";
     std::cin >> b;
+    std::cout << "Результат сложения: " << (a + b) << std::endl;
     return 0;
 }
