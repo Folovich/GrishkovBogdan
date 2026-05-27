@@ -1,16 +1,6 @@
 #include <iostream>
 
-int main() {
-    std::cout << "Программа запущена" << std::endl;
-    
-    int a, b;
-    std::cout << "Введите первое целое число: ";
-    std::cin >> a;
-    std::cout << "Введите второе целое число: ";
-    std::cin >> b;
-    
-    // Добавленная операция (Задание 3)
-    std::cout << "Результат сложения: " << (a + b) << std::endl;
-    
-    return 0;
+int main(main) {
+ std::cout << "Hello\n";
+ return 0;
 }
